@@ -71,7 +71,7 @@ Gem::Specification.new do |gem|
   gem.add_dependency 'mime-types', '= 2.4.3'
   gem.add_dependency 'mini_portile2', '>= 2.4.0'
   gem.add_dependency 'multi_json', '>= 1.10.1'
-  gem.add_dependency 'multi_xml', '= 0.5.5'
+  gem.add_dependency 'multi_xml', '>= 0.5.5'
   gem.add_dependency 'multipart-post', '= 1.2.0'
   gem.add_dependency 'net-scp', '= 1.2.1'
   gem.add_dependency 'net-sftp', '= 2.1.2'
